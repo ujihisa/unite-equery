@@ -37,7 +37,7 @@ function! s:equery_f(args, context)
           \ "source": s:source.name,
           \ "kind": ["file"],
           \ "action__path": v:val,
-          \ "action__directory": fnamemodify(v:val, ':h'),
+          \ "action__directory": fnamemodify(v:val, ":h"),
           \ }')
     return cmdresult
   endif
