@@ -4,7 +4,7 @@ Author : ujihisa <ujihisa at gmail com>
 License: GPL version 3 or later
 
 ==============================================================================
-INTRODUCTION					*unite-introduction*
+INTRODUCTION					*unite-equery-introduction*
 
 * `:Unite equery:f:vim` is like `$ unite equery f vim`
 
